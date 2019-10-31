@@ -51,4 +51,8 @@ public class LazyTest {
     public void fn2(){
         
     }
+	@Test
+    public void fn3(){
+        
+    }
 }
