@@ -46,4 +46,9 @@ public class LazyTest {
             System.out.println(linkMAN);
         }
     }
+
+    @Test
+    public void fn2(){
+        
+    }
 }
